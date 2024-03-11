@@ -8,7 +8,7 @@
 This directory repository serves as a platform for the Fix My Code Challenge project. Below, you'll find details about the project background, requirements, and tasks.
 
 <details>
-  <summary><stong>Click to expand!</strong></summary>
+  <summary><strong>Click to expand!</strong></summary>
 
 ## Background Context
 
