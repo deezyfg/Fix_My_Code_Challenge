@@ -8,7 +8,7 @@
 This directory repository serves as a platform for the Fix My Code Challenge project. Below, you'll find details about the project background, requirements, and tasks.
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary><stong>Click to expand!</strong></summary>
 
 ## Background Context
 
@@ -32,7 +32,8 @@ You should not recode everything, just fix it!
 </details>
 
 <details>
-  <summary>Click to see the task!</summary>
+  <summary><strong>Click to see the task!</strong></summary>
+
 ## Tasks
 
 ### 0. FizzBuzz
