@@ -4,3 +4,4 @@ This repository serves as a comprehensive resource for tackling coding challenge
 
 ## Table Of Contents
 1. [0x00-challenge](#0x00-challenge)
+2. [0x01-challenge](#0x01-challenge)
